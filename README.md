@@ -1,8 +1,12 @@
 # Graphical-Advanced-Python-Calculator-By-Ked969
 High-Precision Scientific Calculator | Yüksek Hassasiyetli Bilimsel Hesap Makinesi
+
+
 English
+
 ​📝 Description
 ​This is an advanced scientific calculator built with Python and Kivy. Unlike standard calculators, it uses the SymPy library to provide high-precision engineering calculations, specifically optimized for degree-based trigonometry.
+
 ​✨ Features
 ​Advanced Trigonometry: High-accuracy calculations for sin, cos, tan, sec, cosec, and cot in Degree mode.
 ​Reciprocal Support: Native handling for secondary trigonometric functions that standard calculators often miss.
@@ -10,9 +14,14 @@ English
 ​Dynamic Themes: 4 different professional color schemes switchable via the ... button.
 ​Error Management: Clear feedback for undefined operations (e.g., division by zero or tan(90)).
 ​Modern UI: A clean, symmetrical, and dark-themed interface designed with Kivy.
-​🇹🇷 Türkçe
-​📝 Açıklama
+​
+
+
+Türkçe
+​
+📝 Açıklama
 ​Bu, Python ve Kivy ile oluşturulmuş gelişmiş bir bilimsel hesap makinesidir. Standart hesap makinelerinin aksine, özellikle derece tabanlı trigonometri için optimize edilmiş, yüksek hassasiyetli mühendislik hesaplamaları sağlamak için SymPy kütüphanesini kullanır.
+
 ​✨ Özellikler
 ​Gelişmiş Trigonometri: Derece modunda sin, cos, tan, sec, cosec ve cot için yüksek doğruluklu hesaplamalar.
 ​Ters Fonksiyon Desteği: Standart hesap makinelerinde genellikle bulunmayan yardımcı trigonometrik fonksiyonların doğrudan kullanımı.
