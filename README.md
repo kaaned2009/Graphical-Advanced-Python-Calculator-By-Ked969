@@ -5,9 +5,11 @@ High-Precision Scientific Calculator | Yüksek Hassasiyetli Bilimsel Hesap Makin
 English
 
 ​📝 Description
+
 ​This is an advanced scientific calculator built with Python and Kivy. Unlike standard calculators, it uses the SymPy library to provide high-precision engineering calculations, specifically optimized for degree-based trigonometry.
 
 ​✨ Features
+
 ​Advanced Trigonometry: High-accuracy calculations for sin, cos, tan, sec, cosec, and cot in Degree mode.
 ​Reciprocal Support: Native handling for secondary trigonometric functions that standard calculators often miss.
 ​Mathematical Precision: Specialized logic to handle edge cases like tan(89) and cosec(9).
@@ -20,9 +22,11 @@ English
 Türkçe
 ​
 📝 Açıklama
+
 ​Bu, Python ve Kivy ile oluşturulmuş gelişmiş bir bilimsel hesap makinesidir. Standart hesap makinelerinin aksine, özellikle derece tabanlı trigonometri için optimize edilmiş, yüksek hassasiyetli mühendislik hesaplamaları sağlamak için SymPy kütüphanesini kullanır.
 
 ​✨ Özellikler
+
 ​Gelişmiş Trigonometri: Derece modunda sin, cos, tan, sec, cosec ve cot için yüksek doğruluklu hesaplamalar.
 ​Ters Fonksiyon Desteği: Standart hesap makinelerinde genellikle bulunmayan yardımcı trigonometrik fonksiyonların doğrudan kullanımı.
 ​Matematiksel Hassasiyet: tan(89) ve cosec(9) gibi uç durumları işlemek için özel matematiksel mantık.
