@@ -3,18 +3,18 @@ on: [push, pull_request]
 
 jobs:
   build:
-    runs-on: ubuntu-22.04  # Daha stabil bir sürüm seçtik
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4  # v2 yerine en güncel v4 sürümü
+      - uses: actions/checkout@v4
 
       - name: Build with Buildozer
-        uses: ArtemSBulgakov/buildozer-action@v1.6.1  # En güncel sürüm
+        uses: ArtemSBulgakov/buildozer-action@v1
         with:
           workdir: .
           buildozer_version: master
 
       - name: Upload APK
-        uses: actions/upload-artifact@v4  # v2 yerine en güncel v4 sürümü
+        uses: actions/upload-artifact@v4
         with:
           name: Pro-Calculator-APK
           path: bin/*.apk
